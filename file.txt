@@ -1,4 +1,4 @@
 "Hi how is your kid
 "HOw are you hero "
 
-whats up
+print "whats up"
